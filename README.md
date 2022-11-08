@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-CfziI2RsBt)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-CfziI2RsBt](https://www.frontendmentor.io/solutions/product-preview-card-component-CfziI2RsBt)
+- Live Site URL: [https://altaircgs.github.io/product-preview-card-component-main/](https://altaircgs.github.io/product-preview-card-component-main/)
 
 ## My process
 
